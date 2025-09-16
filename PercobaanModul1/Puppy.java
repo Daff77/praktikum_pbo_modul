@@ -4,7 +4,7 @@
  */
 package PercobaanModul1;
 
-/**
+/*
  *
  * @author Daffa Danendra
  */
@@ -35,3 +35,4 @@ public class Puppy {
         System.out.println("Variable Value = " + myPuppy.puppyAge );
     }
 }
+
